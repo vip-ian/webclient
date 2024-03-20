@@ -34,6 +34,8 @@ private slots:
     void on_pbSend_clicked();
     void connection();
 
+    void on_pbClear_clicked();
+
 private:
     Ui::Widget *ui;
 };
